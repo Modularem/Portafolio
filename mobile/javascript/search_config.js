@@ -1,1 +1,0 @@
-﻿var textForPages = ["","GARZA SADA","","BLOQUE MARQUEZ","","CASA RM","","","","","","VÍA ÁUREA","","CASA AA","","CASA EROS","","","","CASA GG","","","","CONJUNTO VA","","AUTO DETAIL","","CENTRO SANTA MARÍA","","UNIVERSIDAD UV","","TERRAZA AZ","","TERRAZA M","","INTERIORES VM","","","","","","","","","","","","","","+52 444 245 8837"];
